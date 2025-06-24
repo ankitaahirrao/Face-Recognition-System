@@ -1,5 +1,5 @@
 # Face-Recognition-System
-                          ![My Dashboard](https://github.com/ankitaahirrao/Face-Recognition-System/issues/1#issue-3172010714)
+                          ![My Dashboard](https://private-user-images.githubusercontent.com/118981514/458405576-365a8a46-be66-4b4f-93b6-06b80d3209fc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA3NzIyNDYsIm5iZiI6MTc1MDc3MTk0NiwicGF0aCI6Ii8xMTg5ODE1MTQvNDU4NDA1NTc2LTM2NWE4YTQ2LWJlNjYtNGI0Zi05M2I2LTA2YjgwZDMyMDlmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyNFQxMzMyMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDRhZGE2NWY2ZmYxYTdkMDg0MjEwYmI2MWE3NDcwMjk2MzU5ZGVlOTUxMGE1MDE4OTMxMzJiMGVmMTNiY2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xXsMkwrgqlTgeCeS3yMZS52jiYpSWCCdX7EKOlk6hOo)
 
 
 This is a Face Recognition Attendance System using Python, OpenCV, and face_recognition library.The system uses a camera to capture images of individuals and  Face data is encoded and stored securely using pickle in the databases.
