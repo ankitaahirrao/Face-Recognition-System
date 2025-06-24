@@ -7,7 +7,7 @@ import cv2
 import face_recognition
 from PIL import Image, ImageTk
 
-import util
+import features
 
 # from test import test  # Uncomment when `test.py` is available and working
 
