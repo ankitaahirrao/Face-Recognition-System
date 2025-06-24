@@ -5,7 +5,7 @@ Built with Python, Flask, OpenCV, and Firebase, the system provides an efficient
 
 This project is an excellent example of how computer vision and machine learning can be used to automate traditional processes, making them more efficient and accurate.
 
-#Features
+# Features
 
 The Face Recognition Attendance System comes with a host of features designed to make attendance tracking as seamless and efficient as possible:
 
@@ -25,7 +25,7 @@ The Face Recognition Attendance System comes with a host of features designed to
 
 8)Open Source: The system is open source. Developers are welcome to contribute and help improve the system.
 
-#Dependencies
+# Dependencies
 
 The Face Recognition Attendance System relies on several Python libraries to function correctly. Here is a list of the main dependencies:
 
